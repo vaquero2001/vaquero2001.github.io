@@ -1,20 +1,21 @@
 {
-	"name": "Mi primer PWA",
-	"short_name": "MyPWA",
+	"name": "Enigma",
+	"short_name": "ENIGMA",
 	"description": "Aplicación demo",
 	"background_color": "#FFF",
 	"theme_color": "#10161F",
 	"orientation": "portrait",
 	"display": "standalone",
-	"start_url": "./enigma?utm_source=web_app_manifest",
+	"start_url": "./enigma.html?utm_source=web_app_manifest",
 	"scope": "./",
 	"lang": "es-MX",
 	"icons":[
 		{
 			"src": "./images/Enigma_logo.png",
-			"sizes": "430x177",
+			"sizes": "430x197",
 			"type": "image/png"
 		}
 	]
 }
+
 
